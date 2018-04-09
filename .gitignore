@@ -8,6 +8,7 @@ target/
 /project/plugins/project
 project/project
 project/target
+project/
 target/
 out/
 lib_managed/
